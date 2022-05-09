@@ -1,13 +1,13 @@
 
+// abstract não pode ser instanciada 
 public abstract class Funcionario {
 	
 	private String nome;
 	private String cpf;
 	private double salario;
 	
-	public double getBonificacao() {
-		return this.salario * 0.05;
-	}
+	// método sem corpo sem implementação
+	public abstract double getBonificacao();
 	
 	public String getNome() {
 		return nome;
