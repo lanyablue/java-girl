@@ -1,0 +1,7 @@
+
+public class ControleBonicacao {
+
+	public void registra() {
+		double boni = g.getBonificacao();
+	}
+}
