@@ -21,7 +21,7 @@ public class Gerente extends Funcionario implements Autenticavel{
 	public boolean autentica(int senha) {
 		return this.autenticador.autentica(senha);
 		
-	}}
+	}
 
 
 }
