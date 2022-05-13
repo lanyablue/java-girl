@@ -15,13 +15,9 @@ public class Fluxo {
 		System.out.println("Fim do main");
 	}
 	
-	private static void metodo1 () {
+	private static void metodo1 () throws MinhaExcecao{
 		System.out.println("Ini do metodo1");
-		try {
-			metodo2();
-		} catch(MinhaExcecao ex) {
-			
-		}
+		metodo2();
 		System.out.println("Fim do metodo1");
 		
 	}
