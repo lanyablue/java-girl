@@ -12,8 +12,22 @@
     <fullyQualifiedTypeName name="FuncionarioAutenticavel"/>
     <fullyQualifiedTypeName name="Funcionario"/>
     <fullyQualifiedTypeName name="AutenticacaoUtil"/>
-    <fullyQualifiedTypeName name="ContaCorrente"/>
     <fullyQualifiedTypeName name="SeguroDeVida"/>
     <fullyQualifiedTypeName name="CalculadorImposto"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="MinhaExcecao"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="ContaCorrente"/>
+    <fullyQualifiedTypeName name="TesteSaca"/>
+    <fullyQualifiedTypeName name="SaldoInsuficienteException"/>
+    <fullyQualifiedTypeName name="java.lang.AutoCloseable"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalStateException"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.SaldoInsuficienteException"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.especial.ContaEspecial"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.ContaCorrente"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.ContaPoupanca"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.Conta"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.Cliente"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
 </qualifiedTypeNameHistroy>
