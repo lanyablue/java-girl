@@ -1,0 +1,9 @@
+-Dfile.encoding=UTF-8
+-classpath
+/home/usertqi/eclipse-workspace/bytebank-herdado-conta/bin
+br.com.bytebank.banco.test.TesteArrayString
+12
+asasd
+asd
+asdasd
+asdasd
