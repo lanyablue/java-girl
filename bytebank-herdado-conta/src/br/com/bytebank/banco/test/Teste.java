@@ -16,8 +16,11 @@ public class Teste {
 		Conta cc2 = new ContaCorrente(22,12);
 		guardador.adiciona(cc2);
 		
-		System.out.println("blablablaasdasdsadsdd");
+		int tamanho = guardador.getQuantidadeDeElementos();
+		System.out.println(tamanho);
 		
+		Conta ref = (Conta) guardador.getReferencia(0);
+		System.out.println(ref.getNumero());
 		
 	}
 
