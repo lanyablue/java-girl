@@ -16,7 +16,7 @@ public class Teste {
 		Conta cc2 = new ContaCorrente(22,12);
 		guardador.adiciona(cc2);
 		
-		System.out.println("blablabla");
+		System.out.println("blablablaasdasdsadsdd");
 		
 		
 	}
