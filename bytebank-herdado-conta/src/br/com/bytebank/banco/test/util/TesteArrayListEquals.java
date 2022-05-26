@@ -10,7 +10,7 @@ public class TesteArrayListEquals {
 
 	public static void main(String[] args) {
 
-		
+
 		ArrayList<Conta> list = new ArrayList<Conta>(); 
 		
 		Conta cc = new ContaCorrente(22,11);
@@ -20,17 +20,13 @@ public class TesteArrayListEquals {
 		list.add(cc2);
 		
 		Conta cc3 = new ContaCorrente(22, 22);
-		
-		
 		boolean existe = list.contains(cc3);
 		System.out.println("Já existe? " + existe);
 		
 		for (Conta conta : list) {
-			if (conta == cc3) {
-				System.out.println("Já tenho essa conta");
-			}
+			System.out.println(conta);
 		}
-		
+	
 		
 	}
 

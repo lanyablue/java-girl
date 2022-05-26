@@ -4,7 +4,6 @@
     <fullyQualifiedTypeName name="ControleBonicacao"/>
     <fullyQualifiedTypeName name="EditorVideo"/>
     <fullyQualifiedTypeName name="Designer"/>
-    <fullyQualifiedTypeName name="org.graalvm.compiler.asm.sparc.SPARCAssembler.CC"/>
     <fullyQualifiedTypeName name="Conta"/>
     <fullyQualifiedTypeName name="ContaPoupanca"/>
     <fullyQualifiedTypeName name="SistemaInterno"/>
@@ -25,9 +24,12 @@
     <fullyQualifiedTypeName name="java.lang.IllegalStateException"/>
     <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.SaldoInsuficienteException"/>
     <fullyQualifiedTypeName name="br.com.bytebank.banco.especial.ContaEspecial"/>
-    <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.ContaCorrente"/>
-    <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.ContaPoupanca"/>
-    <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.Conta"/>
-    <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.Cliente"/>
     <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="org.graalvm.compiler.asm.sparc.SPARCAssembler.CC"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.ContaPoupanca"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.Cliente"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.test.GuardadorRef"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.Conta"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.ContaCorrente"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
